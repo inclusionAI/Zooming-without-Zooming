@@ -259,7 +259,7 @@ This project builds upon:
 
 For questions or collaborations, please contact:
 - Lai Wei: waltonfuture@sjtu.edu.cn
-- Liangbo He: langdao.hlb@antgroup.com
+- Liangbo He: liangbo.hlb@antgroup.com
 - Jun Lan: yelan.lj@antgroup.com
 - Zhuosheng Zhang: zhangzs@sjtu.edu.cn
 - Weiran Huang: weiran.huang@sjtu.edu.cn
