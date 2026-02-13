@@ -193,10 +193,7 @@ python create_vqa.py \
 
 ### 2. Reinforcement Learning
 
-You can use the generated "validated_vqa.parquet" as the training dataset. Or, you can also use ours: please convert [inclusionAI/ZwZ-RL-VQA](https://huggingface.co/datasets/inclusionAI/ZwZ-RL-VQA) to TRAIN.parquet using this script:
-```bash
-
-```
+You can use the generated "validated_vqa.parquet" as the training dataset. Or, you can also use ours: download train.parquet and images in [inclusionAI/ZwZ-RL-VQA](https://huggingface.co/datasets/inclusionAI/ZwZ-RL-VQA).
 
 Then, you can start training!
 
