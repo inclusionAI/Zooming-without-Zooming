@@ -124,8 +124,7 @@ pip install -e . # please refer to the official repo of EasyR1 for detailed inst
 
 ## 🔥 Let's Start
 
-### 1. Data Synthesis
-
+### 1. Region to Image Distillation
 The pipeline supports checkpointing. Each step can be executed independently and resumed from any stage. Note that we use Qwen3-VL-235B and Sam3 to get a meaningful cropped image, and use Kimi-K2 to extract the majority answer.
 
 ```bash
@@ -264,7 +263,7 @@ For questions or collaborations, please contact:
 - Zhuosheng Zhang: zhangzs@sjtu.edu.cn
 - Weiran Huang: weiran.huang@sjtu.edu.cn
 
-Please note that the code may contain minor bugs related to dataset paths. We appreciate any feedback or contributions. Thank you for your support!
+Please note that the code may contain minor bugs related to dataset paths. We appreciate any feedback or contributions. Thank you for your understanding and support!
 
 ## 📄 Citation
 
