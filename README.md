@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-📃 <a href="https://arxiv.org/pdf/YOUR_ARXIV_ID" target="_blank">Paper</a> | 
+📃 <a href="https://arxiv.org/pdf/2602.11858" target="_blank">Paper</a> | 
 🤗 <a href="https://huggingface.co/collections/inclusionAI/zooming-without-zooming">Models & Training Datasets & ZoomBench</a> 
 </p>
 
@@ -274,7 +274,7 @@ Please note that the code may contain minor bugs related to dataset paths. We ap
 @article{wei2026zooming,
   title={Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception},
   author={Wei, Lai and He, Liangbo and Lan, Jun and Dong, Lingzhong and Cai, Yutong and Li, Siyuan and Zhu, Huijia and Wang, Weiqiang and Kong, Linghe and Wang, Yue and Zhang, Zhuosheng and Huang, Weiran},
-  journal={arXiv preprint arXiv:2602.XXXXX},
+  journal={arXiv preprint arXiv:2602.11858},
   year={2025}
 }
 ```
