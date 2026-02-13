@@ -117,9 +117,9 @@ cd Zooming-without-Zooming
 pip install -r requirements.txt
 git clone https://github.com/facebookresearch/sam3.git
 cd sam3
-pip install -e .
+pip install -e . # please refer to the official repo of SAM3 for detailed installation
 cd ../EasyR1
-pip install -e .
+pip install -e . # please refer to the official repo of EasyR1 for detailed installation
 ```
 
 ## 🔥 Let's Start
