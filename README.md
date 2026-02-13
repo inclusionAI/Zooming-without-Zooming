@@ -115,7 +115,8 @@ We introduce 🤗 [**ZoomBench**](https://huggingface.co/datasets/inclusionAI/Zo
 git clone https://github.com/inclusionAI/Zooming-without-Zooming.git
 cd Zooming-without-Zooming
 pip install -r requirements.txt
-cd sam3-main
+git clone https://github.com/facebookresearch/sam3.git
+cd sam3
 pip install -e .
 cd ../EasyR1
 pip install -e .
