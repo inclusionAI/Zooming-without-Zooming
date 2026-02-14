@@ -294,15 +294,17 @@ def compute_score(reward_inputs: list[dict[str, Any]], format_weight: float = 0.
                 "accuracy": accuracy_score,
             }
             continue 
-        if reward_input["ability"] == "counting":
-            accuracy_score = counting_reward(answer_text, ground_truth=reward_input["ground_truth"])
-            # print("accuracy_score", accuracy_score)
-            final_scores_list[idx] = {
-                "overall": (1 - format_weight) * accuracy_score + format_weight * format_score,
-                "format": format_score,
-                "accuracy": accuracy_score,
-            }
-            continue
+            
+        #  Continuous reward for counting tasks
+        # if reward_input["ability"] == "counting":
+        #     accuracy_score = counting_reward(answer_text, ground_truth=reward_input["ground_truth"])
+        #     # print("accuracy_score", accuracy_score)
+        #     final_scores_list[idx] = {
+        #         "overall": (1 - format_weight) * accuracy_score + format_weight * format_score,
+        #         "format": format_score,
+        #         "accuracy": accuracy_score,
+        #     }
+        #     continue
         
         mcq_option = extract_mcq_option(reward_input["ground_truth"], reward_input["extra_info"]['question'])
         if mcq_option:
