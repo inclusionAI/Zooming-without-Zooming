@@ -272,6 +272,6 @@ Please note that the code may contain minor bugs related to dataset paths. We ap
   title={Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception},
   author={Wei, Lai and He, Liangbo and Lan, Jun and Dong, Lingzhong and Cai, Yutong and Li, Siyuan and Zhu, Huijia and Wang, Weiqiang and Kong, Linghe and Wang, Yue and Zhang, Zhuosheng and Huang, Weiran},
   journal={arXiv preprint arXiv:2602.11858},
-  year={2025}
+  year={2026}
 }
 ```
