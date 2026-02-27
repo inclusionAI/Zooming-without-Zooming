@@ -252,6 +252,8 @@ This project builds upon:
 - [Qwen2.5-VL](https://huggingface.co/collections/Qwen/qwen25-vl) and [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl) for base models
 - [EasyR1](https://github.com/hiyouga/EasyR1) for RL training framework
 
+We also sincerely thank Zhiheng Wang (SJTU, Shanghai AI Lab) for his insightful and valuable suggestions.
+
 
 
 ## 📮 Contact
