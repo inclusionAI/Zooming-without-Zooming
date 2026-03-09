@@ -71,7 +71,7 @@ This can also be summarized as an idea of "Zooming without Zooming". The first "
 
 | Model | Base |  Download |
 |-------|------|----------|
-| ZwZ-2B | Qwen3-VL-2B  | 🤗 [inclusionAI/ZwZ-4B](https://huggingface.co/inclusionAI/ZwZ-2B) |
+| ZwZ-2B | Qwen3-VL-2B  | 🤗 [inclusionAI/ZwZ-2B](https://huggingface.co/inclusionAI/ZwZ-2B) |
 | ZwZ-4B | Qwen3-VL-4B  | 🤗 [inclusionAI/ZwZ-4B](https://huggingface.co/inclusionAI/ZwZ-4B) |
 | ZwZ-7B | Qwen2.5-VL-7B  | 🤗 [inclusionAI/ZwZ-7B](https://huggingface.co/inclusionAI/ZwZ-7B) |
 | ZwZ-8B | Qwen3-VL-8B  | 🤗 [inclusionAI/ZwZ-8B](https://huggingface.co/inclusionAI/ZwZ-8B) |
