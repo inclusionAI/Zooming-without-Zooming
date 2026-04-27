@@ -20,7 +20,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+.DS_Store
 # 虚拟环境
 venv/
 ENV/
