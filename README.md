@@ -1,4 +1,4 @@
-# Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
+# Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception (ICML 2026)
 
 <div align="center">
   Lai Wei<sup>1,2,3</sup>,
