@@ -79,7 +79,7 @@ This can also be summarized as an idea of "Zooming without Zooming". The first "
 
 ### Training Datasets
 
-Our Region-to-Image distilled training data (74K samples): 🤗 [inclusionAI/ZwZ-RL-VQA](https://huggingface.co/datasets/inclusionAI/ZwZ-RL-VQA)
+Our Region-to-Image distilled training data (37K samples): 🤗 [inclusionAI/ZwZ-RL-VQA](https://huggingface.co/datasets/inclusionAI/ZwZ-RL-VQA)
 
 Source image pools:
 - SA-1B, LAION, MetaCLIP, Visual Genome, CC12M, STPLS3D (we just take a small part of images from each image pool; most of high resolution images are from train-0000-of-0013.parquet in https://modelscope.cn/datasets/Tongyi-DataEngine/SA1B-Paired-Captions-Images)
