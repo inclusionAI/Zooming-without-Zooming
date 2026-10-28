@@ -31,6 +31,9 @@
 
 
 
+> [!NOTE]
+> 🎉 We have released **[Zooming without Zooming v2 (ZwZ2)](https://github.com/inclusionAI/Zooming-without-Zooming-v2)**! Check out the new repository for the latest models, data, and code.
+
 ## ✨ Introduction
 
 <div align=center>
