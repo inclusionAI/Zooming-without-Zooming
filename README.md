@@ -198,6 +198,8 @@ python create_vqa.py \
 
 You can use the generated "validated_vqa.parquet" as the training dataset. Or, you can also use ours: download train.parquet and images in [inclusionAI/ZwZ-RL-VQA](https://huggingface.co/datasets/inclusionAI/ZwZ-RL-VQA).
 
+For reproducing the paper, use [Qwen/Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B) as the RL reward judge. This is the post-trained, instruction-tuned checkpoint, not a base model; its official name does not have an `-Instruct` suffix. The judge receives text only (the question, reference answer, and predicted answer) to assess answer equivalence. `reward.sh` defaults to this checkpoint. To use a local copy, run `REWARD_MODEL_PATH="/path/to/Qwen3-8B" bash reward.sh`.
+
 Then, you can start training!
 
 ```bash
